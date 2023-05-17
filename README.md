@@ -3,6 +3,7 @@
  <br/>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://findwrk.app/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+
 # Hi there 👋
 
 I work as a Software engineer who has extensive background in Web application development and Devops Engineering. I have 7+ years of experience with front-end and back-end experience and a passion for responsive website design and secure backend service. I am skilled in Web Development Microservice and Database Management  using JavaScript, PHP, Python as a primary language and using its frameworks.
