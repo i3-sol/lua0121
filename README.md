@@ -2,16 +2,16 @@
 
 
 <p align="left">
-  <a href="https://github.com/Cleaninja/build-components">
+  <a href="https://github.com/ThunderBird0121/ThunderBird0121">
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/Cleaninja/build-components">
+  <a href="https://github.com/ThunderBird0121/ThunderBird0121">
     <img
       src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Frontend%20Engineer%20&fill=black">
   </a>
-  <a href="https://github.com/Cleaninja/build-components">
+  <a href="https://github.com/ThunderBird0121/ThunderBird0121">
     <img style="height:190px"
       src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
   </a>
