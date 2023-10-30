@@ -147,9 +147,9 @@ I work as a Software engineer who has extensive background in Web application de
 
 ### 📈 GitHub Stats 
 
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=edenhazard701&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edenhazard701&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![AB's github stats](https://github-readme-stats.vercel.app/api?username=silver0121&count_private=true&show_icons=true)](https://github.com/silver0121/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silver0121&layout=compact&langs_count=10)](https://github.com/silver0121/github-readme-stats)
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenhazard701&theme=blue-green">
-<p align="center" style='margin:20px'> <img src="https://komarev.com/ghpvc/?username=edenhazard701&label=Profile%20views&color=0e75b6&style=flat" alt="edenhazard701" width='200'/> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver0121&theme=blue-green">
+<p align="center" style='margin:20px'> <img src="https://komarev.com/ghpvc/?username=silver0121&label=Profile%20views&color=0e75b6&style=flat" alt="edenhazard701" width='200'/> </p>
