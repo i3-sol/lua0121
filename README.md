@@ -4,6 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <i>full stack developer</i>
+
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60" /><a>How can you reach me ...</a>
 
 ```js
@@ -13,7 +14,7 @@ yarn connect @lua
 
 ```js
 const Felix = {
-  fullName: "Lua"
+  fullName: "Lua",
   pronouns: "he" | "him",
   contactMe: "spacecalian0121@gmail.com",
   work: 'as Web Developer, freelancing',
