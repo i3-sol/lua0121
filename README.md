@@ -1,24 +1,23 @@
 
-<h3>👋 Hi, I'm Lua!</h3>
+<h3>👋 Hi, I'm Felix!</h3>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<i>full stack developer</i>
+<i>Full stack developer</i>
 
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60" /><a>How can you reach me ...</a>
 
 ```js
-yarn connect @lua
+yarn connect @felix
 ```
 <p><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> <a>A little more about me...</a></p>
 
 ```js
 const Felix = {
-  fullName: "Lua",
   pronouns: "he" | "him",
-  contactMe: "spacecalian0121@gmail.com",
+  contactMe: "lua.fly.i3@gmail.com",
   work: 'as Web Developer, freelancing',
-  code: ["Javascript", "HTML", "PHP", "CSS"],
+  code: ["Javascript", "HTML", "PHP", "CSS", "Python],
   technologies: {
     frontEnd: {
         js: ["React js", "Vue js", "Svelte js", "jQuery"],
@@ -27,11 +26,11 @@ const Felix = {
     backEnd: {
         js: ["Node js", "Express js"],
         php: ["Laravel", "Codeigniter"],
+        python: ["Flask", "Django"]
     },
     databases: ["Mongo DB", "MySql", "sqlite", "phpMyAdmin", "Maria DB"],
     devOps: ["Git", "Github", "Gitlab"], ["Docker"], ["Jira", "Vercel"],
   },
-  learning: ["solid.js", "svelte.js"],
   hired: false,
   hireMe() {
       this.hired = true;
